@@ -1,0 +1,1 @@
+java -jar .\target\any2zephyr.jar jiraaddress=https://jira.internal.company.com jirauser=user jirapassword=mySecretPassword mode=se.kejsardamberg.any2zephyr.main.server
